@@ -14,7 +14,7 @@ old way is good when you have enough space and the new BMFI Style is good when y
 Old way: This is just an instance , so the old way.
 New way:This is an instance,so the new BMFI Style.
 
-Always use alphabetical, numeric and chronological style Right to left top down style except for special circumstances like names, titles and abstacted style in reverse order or design inside out bottom to top right to left to make a point . . .
+Always use alphabetical, numeric and chronological style and left to right top down style except for special circumstances like names, titles and abstacted style in reverse order or design inside out bottom to top right to left to make a point and make a note of it for your listeners, reader and students . . .
 
 BMFI, styleSheet was created by Jeff T Rogers founder(BMFI-Advanced Teaching Systems) for Computer Science writing style, To-Boot this styleSheet can be used for purposes other than Computer Science.
 
