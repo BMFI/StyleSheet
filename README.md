@@ -30,7 +30,7 @@ Moreover, I implemented different Color's in the Card section. Moreover, impleme
 
 This started as a student project TinDog BootStrap 4.0 with Dr Angela Yu as my Mentor, but I decided to do the first rollout of TinDog Boostrap v5.1. TinDog Boostrap v5.1 build by Jeff T. Rogers(BMFI-Advanced Teaching Systems).
 
-Special note: notice the Inline style quote and citation of referece in the 10th paragraph second to last sentence which is acceptable using BMFI StyleSheet for Computer Science Located at(https://www.bmfi.github.io/ATS).Also find example of web page citations at: (https://bmfi.github.io/TinDog/).
+Special note: notice the Inline style quote and citation of referece in the 10th paragraph second to last sentence which is acceptable using BMFI StyleSheet for Computer Science Located at(https://www.bmfi.github.io/ATS). Also, find example of web page citations at: (https://bmfi.github.io/TinDog/).
 
 
 Anyone or any organization can use the BFMI agreement, so just copy and paste it in or on your code, program, or work or works. For instance:
